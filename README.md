@@ -1,8 +1,10 @@
-# lets-go-chat
+# GO CRUD
+
+##Data is stored in memory
 
 ## How to run
 1. Clone the project
-2. ```go run cmd/lets-go-chat/lets-go-chat.go```
+2. ```go run cmd/go-crud/main.go```
 
 ## To try go to the link
 http://localhost/api/
